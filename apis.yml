@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://lordicon.com/
 common:
+  - type: DomainSecurity
+    url: security/lordicon-domain-security.yml
   - type: Website
     url: https://lordicon.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://lordicon.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
