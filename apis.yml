@@ -40,7 +40,8 @@ apis:
   - name: Lordicon
     description: "Icons with predone Animations"
     humanURL: https://lordicon.com/
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
